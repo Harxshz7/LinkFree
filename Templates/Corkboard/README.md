@@ -11,17 +11,17 @@ opens straight from disk with `file://`.
 
 ![Corkboard preview](preview.png)
 
-> **TODO (contributor, before opening the PR):** `preview.png` is a placeholder.
-> Open `index.html` in a browser, take a screenshot at roughly 1200x630 (or any
-> sensible aspect ratio), save it over `preview.png` in this folder, and only then
-> open the pull request.
+A real render of the default `config.js`, captured at a 720x1200 viewport (so the
+whole page fits, including the tape, thumbtacks and doodle). If you change the
+content, replace `preview.png` with a fresh screenshot of your own version.
 
 ## Getting started
 
 1. Copy this whole `Corkboard` folder wherever you want to keep your page.
 2. Open `index.html` in a browser to see it — no server needed.
 3. Edit `config.js` (see below). That is the only file you need to touch.
-4. Replace `preview.png` if you are contributing this back upstream.
+4. Replace `preview.png` with a screenshot of your own version if you are
+   contributing this back upstream — the gallery shows it next to the name.
 
 ## Customizing
 
