@@ -7,6 +7,8 @@ Kalam + Patrick Hand lettering, and just enough paper grain to feel like a real 
 Nothing is loaded from a CDN except the two Google Fonts, so it works offline and
 opens straight from disk with `file://`.
 
+Made by [@Harxshz7](https://github.com/Harxshz7).
+
 ## Preview
 
 ![Corkboard preview](preview.png)

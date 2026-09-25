@@ -45,9 +45,9 @@ window.LINKFREE_CONFIG = {
     },
     {
       label: "GitHub",
-      url: "https://github.com/",
+      url: "https://github.com/Harxshz7",
       icon: "github",
-      note: ""
+      note: "@Harxshz7"
     },
     {
       label: "YouTube",
