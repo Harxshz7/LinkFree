@@ -11,15 +11,15 @@
  */
 window.LINKFREE_CONFIG = {
   // ---- Page metadata (drives <title> and <meta name="description">) ----
-  pageTitle: "Alex Sketcher - Links",
+  pageTitle: "Harsha - Links",
   pageDescription:
-    "Alex Sketcher draws things, mostly badly, mostly on purpose. Find every link in one hand-drawn place.",
+    "Harsha's links, all in one hand-drawn place.",
   pageKeywords: "alex sketcher, illustrator, sketchbook, links, linkfree template",
 
   // ---- Profile ----
-  name: "Alex Sketcher",
-  handle: "@alexsketcher",
-  bio: "Illustrator, doodler, professional margin-scribbler. Everything I make starts on paper.",
+  name: "Harsha",
+  handle: "@Harxshz7",
+  bio: "Developer, creator, open-source contributor. Building things one commit at a time.",
   // A self-contained inline SVG avatar, so nothing 404s before you
   // replace it. Swap this for "./assets/me.jpg" (or any URL) once you
   // drop your own picture next to index.html.
